@@ -1,0 +1,28 @@
+{
+  "name": "discord-urpc",
+  "version": "1.0.0",
+  "description": "A simpler RPC client for Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rellfy/discord-urpc.git"
+  },
+  "keywords": [
+    "discord",
+    "rpc",
+    "ipc"
+  ],
+  "author": "Rellfy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rellfy/discord-urpc/issues"
+  },
+  "homepage": "https://github.com/Rellfy/discord-urpc#readme",
+  "dependencies": {
+    "events": "^2.0.0",
+    "uuid": "^3.2.1"
+  }
+}
