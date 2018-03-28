@@ -1,6 +1,6 @@
 {
   "name": "discord-urpc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simpler RPC client for Discord",
   "main": "index.js",
   "scripts": {
